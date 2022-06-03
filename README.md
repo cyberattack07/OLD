@@ -1,80 +1,49 @@
-<img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/azimvau.gif" width="120" height="120" align="left">
-<center>
-  
-  
- 
-   ##  MY SOCIAL MEDIA : <br>
+# DUMP-FULL
+Dumping Fb New Id With Full Name.   
+single spilt
+Automatic Fb Numeric ID Gathering. All Tyep Id Dumping And Automatic One File Save.    
 
-<a href="https://Instagram.com/azimmahmud143" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
-<a href="https://t.me/mrerror69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/telegram.png" alt="alt text" width="25" height="25"></a>
-<a href="https://www.facebook.com/azimmahmudofficial" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/MrError69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
-  
-____Programming And Memes____
-
-CONTACT WITH <a href="https://github.com/Azim-vau"><b>MR. ERROR </a> </br><br>
-<img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
-<p>errorazim@gmail.com</p>  <br> <br> 
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-cyberattack07-dimgray?style=flat-square&logo=github)]([https://github.com/cyberattack07](https://github.com/cyberattack07))<br> [![Facebook](https://img.shields.io/badge/Facebook-+ALAMGIR-blue?style=flat-square&logo=facebook)](https://www.facebook.com/TeraPaPa.ALAMgir.HoSeN)<br> [![Instagram](https://img.shields.io/badge/I[https://www.facebook.com/TeraPaPa.ALAMgir.HoSeN](https://www.facebook.com/TeraPaPa.ALAMgir.HoSeN)?style=flat-square&logo=instagram)](I'm on Instagram as [https://www.facebook.com/TeraPaPa.ALAMgir.HoSeN](https://www.facebook.com/TeraPaPa.ALAMgir.HoSeN). Install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?i=1xbkroj44l0gh&utm_content=2gx3kse)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-ALAMGIR-deepgreen?style=flat-square&logo=whatsapp)](+8801712034653)
 
 
-<a href="https://github.com/Azim-Vau/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/Azim-vau?label=Followers&color=blue&style=flat-square"></a>
 
-<br>
-  <a href="https://github.com/Azim-Vau/termux-style/stargazers/">
-  <a href="https://github.com/Azim-vau/oldcr3k">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Azim-vau/oldcr3k.svg"/>
-  </a>
-<br>
-  <a href="https://github.com/Azim-vau/oldcr3k">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Azim-vau/oldcr3k.svg"/>
-  </a>
-  <a href="https://github.com/Azim-vau/oldcr3k">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Azim-vau/oldcr3k.svg"/>
-  </a>
-<br>
-<a href="https://github.com/Azim-vau/oldcr3k">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Azim-vau/oldcr3k.svg"/>
-  </a>
-<br>
-<a href="https://github.com/Azim-vau/oldcr3k">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Azim-vau/oldcr3k.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/oldcr3k">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Azim-vau/oldcr3k.svg"/>
-  </a>
-</div>
+<h1 align="center"> |MD.ALAMGIR HOSEN|</h1>
 
-</br>
+<h2 align="center">  FB NUMERIC ID DUMP TOOL </h2>
+
+<h3 align="center"> ONLY FROM FRIENDLIST </h3>
+      
 <p align="center">
-      FACEBOOK ACCOUNT CLONER
+      FASTEST NEW FILE MAKING 
 </p>
 
-#### INSTALL TOOL ON TERMUX
-```python
+
+
+<p align="center">
+  AND AUTOMATICK SAVE ONE FILE
+
+## <b>installation</b>
+
+```
+🔰 FOR NEW ID WITH FULL NAME FILE CREAT🔰
+👇
 $ apt update && apt upgrade
 $ apt install python
 $ pip install mechanize lolcat
 $ pip install requests bs4
 $ pip install futures
 $ apt install git
-$ git clone https://github.com/Azim-vau/oldcr3k.git
-```
-#### RUN SCRIPT
-```python
-$ cd oldcr3k
-$ git pull
-$ python oldcr3k.py
+$ git clone [https://github.com/cyberattack07/DUMP.git](https://github.com/cyberattack07/OLD.git)
+$ cd OLD
+$ python alamgir-old.py
+      
 ```
 
-#### JOIN TELEGRAM GROUP <br>
-[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/mrerror69)
+# Single Command 
 
-<br>
+```
 
-#### MY SOCIAL MEDIA
-
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Azim-Vau) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/Azimvau69) <br>
-[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/azimmahmud143) <br>
-
-
-<h2> THANKS FOR VISIT ✘✘ <h2\>
+```
+ Api Key : (Hello-Bro)</br>
+ TOOL PASS : ()</br>
+ [![Facebook](https://img.shields.io/badge/Facebook-ALAMGIR-blue?style=flat-square&logo=facebook)]([https://www.facebook.com/TeraPaPa.ALAMgir.HoSeN](https://www.facebook.com/TeraPaPa.ALAMgir.HoSeN))</br>
